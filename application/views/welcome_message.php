@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
-    <title>Portfolio, 2 Column</title>
+    <title>Basic Codeigniter</title>
 
     <!-- Bootstrap Core CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
@@ -209,7 +209,7 @@
         
         <div class="copyright">
         	<div class="container">
-        		<p>Copyright &copy; Example.com 2015</p>
+        		<p>Copyright &copy; 2019 | <a href="https://www.shadikur.com" target="_blank">Shadikur - Best Use of Linux</a></p>
         	</div>
         </div>
 	</footer>

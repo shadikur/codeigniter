@@ -1,0 +1,363 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"sele",
+				"select"
+			],
+			[
+				"bord",
+				"border-color"
+			],
+			[
+				"sub",
+				"submit"
+			],
+			[
+				"fa-use",
+				"fa-user-circle-o"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "license.txt",
+			"settings":
+			{
+				"buffer_size": 1114,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/XAMPP/xamppfiles/htdocs/codeigniter"
+	],
+	"file_history":
+	[
+		"/Users/ShuvoSD/Downloads/portfolio-2-column/index.html",
+		"/Users/ShuvoSD/Documents/GitHub/useful-shell/simple_shell.sh",
+		"/Users/ShuvoSD/.hyper.js",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/about_us.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/contact_us.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/car_collection.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/search_process.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/index.php",
+		"/Users/ShuvoSD/Downloads/Ultimate AWS Certified Developer Associate 2019 - NEW!/Ultimate AWS Certified Developer Associate 2019 - NEW!/[Tutsgalaxy.com] - Ultimate AWS Certified Developer Associate 2019 - NEW!/2. Code & Slides Download/1. Code & Slides Download.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/LICENSE",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/README.md",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/header.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/menu.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/footer.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/mobile_app.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/pricing_block.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/service_type.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/statistics.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/unibent/blog_area.php",
+		"/Users/ShuvoSD/Documents/GitHub/useful-shell/simple_shell2.sh",
+		"/Users/ShuvoSD/Downloads/RnB v8.0.6 - WooCommerce Rental & Booking System/rnb806/Documentation/Offlinle documentation/index.html",
+		"/Users/ShuvoSD/Documents/GitHub/useful-shell/simple_shell",
+		"/Users/ShuvoSD/Downloads/vtiger.lua",
+		"/Users/ShuvoSD/Downloads/VTLINK-0.0.1/vtiger/languages/en_us/PBXManager.php",
+		"/Users/ShuvoSD/Downloads/VTLINK-0.0.1/vtiger/languages/en_us/Settings/PBXManager.php",
+		"/Users/ShuvoSD/Desktop/untitled.sh",
+		"/Users/ShuvoSD/Downloads/wr940nv6_eu_3_19_1_up_boot(180119).bin",
+		"/Users/ShuvoSD/Downloads/Leo Rent Car - Car Rental Website/leorentprestashop/leo-rent-car-guide.html",
+		"/Users/ShuvoSD/Downloads/elements-cars4rent-JMPAGD8-2019-02-28/documentation.html",
+		"/Users/ShuvoSD/Desktop/Admin.plist",
+		"/Users/ShuvoSD/Downloads/cal/notes.php",
+		"/Users/ShuvoSD/Downloads/vtigercrm-customerportal-7.1.0/classes/Portal/apis/Ping.php",
+		"/Users/ShuvoSD/Downloads/wp_caden_package_1.3.2/sample-data/exported_files/theme-options.json",
+		"/Users/ShuvoSD/Downloads/backup(1)/config.php",
+		"/Users/ShuvoSD/Library/X2441139MAC/Temp/runCmd.sh",
+		"/Users/ShuvoSD/Downloads/web.php",
+		"/Users/ShuvoSD/Downloads/admin.2019-01-04_05-13-50/web/server.accesssol.com/domain_data/public_html/index.php",
+		"/Users/ShuvoSD/Downloads/Adobe_Premiere_CC_2019_v13.0.1.TNT/X-Videos.url",
+		"/Users/ShuvoSD/Desktop/GSWave.xml",
+		"/Users/ShuvoSD/Downloads/smartsms/application/vendor/giggsey/libphonenumber-for-php/src/geocoding/data/en/55.php",
+		"/Users/ShuvoSD/Downloads/smartsms/application/vendor/fzaninotto/faker/src/Faker/Provider/en_PH/Address.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/parking/index.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/parking/dashboard.php",
+		"/Applications/XAMPP/xamppfiles/htdocs/parking/pages/examples/invoice.html",
+		"/Applications/XAMPP/xamppfiles/htdocs/carparking/inc/dbcon.php",
+		"/Users/ShuvoSD/Desktop/fs_cli",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/fontawesome/svgs/brands/accessible-icon.svg",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/fontawesome/svgs/brands/apper.svg",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/login.php",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/fontawesome/svgs/brands/500px.svg",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/index.php",
+		"/Users/ShuvoSD/Downloads/nayeemahmed-pbx-shadikur-7eae7f7608e6/header.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/db_tracking.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.inc.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/setup/lib/common.inc.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/setup/config.php",
+		"/Applications/XAMPP/xamppfiles/phpmyadmin/config.sample.inc.php",
+		"/Users/ShuvoSD/Documents/PHP/get_magic_qutoes.php",
+		"/Users/ShuvoSD/Documents/PHP/magic_quotes.php",
+		"/Users/ShuvoSD/Documents/PHP/get_magic_qutoes",
+		"/Users/ShuvoSD/Documents/PHP/loop_foreach_test.php",
+		"/Users/ShuvoSD/Documents/PHP/loop_foreach.php",
+		"/Users/ShuvoSD/Documents/PHP/math.php",
+		"/Users/ShuvoSD/Downloads/MvOjIsKF.dms",
+		"/Users/ShuvoSD/Downloads/i-p-tel-sipdroid-f231a6b/src/org/zoolu/sip/dialog/InviteDialog.java",
+		"/Users/ShuvoSD/Desktop/test.c",
+		"/Users/ShuvoSD/Downloads/smartsms/index.php",
+		"/Users/ShuvoSD/Downloads/NQA0M7M6.rss",
+		"/Users/ShuvoSD/Downloads/Akaunting_1.1.6-Stable/vendor/phpoffice/phpexcel/Classes/PHPExcel/Shared/OLE/PPS/Root.php",
+		"/Volumes/SHUVO/Shadikur - C/shadikur_multi.c",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/texts 2.php",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/master.blade.php",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/header.blade.php",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/browserconfig.xml",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/Invoice.php",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/en.php",
+		"/private/var/folders/5p/4g71gq4940vglj295nbr2t500000gn/T/fz3temp-2/mail-wrapper.php",
+		"/Users/ShuvoSD/Documents/MicroSIP-3.14.0-src/MicroSIP-3.14.0-src/microsip.vcproj",
+		"/Users/ShuvoSD/Documents/MicroSIP-3.14.0-src/MicroSIP-3.14.0-src/microsip.h",
+		"/Users/ShuvoSD/Documents/MicroSIP-3.14.0-src/MicroSIP-3.14.0-src/settings.h",
+		"/Users/ShuvoSD/Documents/MicroSIP-3.14.0-src/MicroSIP-3.14.0-src/Contacts.h",
+		"/Users/ShuvoSD/Documents/MicroSIP-3.14.0-src/MicroSIP-3.14.0-src/settings.cpp"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 97.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    \n",
+			"user",
+			"0\t",
+			"\t",
+			"H^2HQKFW^N",
+			"101",
+			"pbx.shadikur.com",
+			"101",
+			"303",
+			"302",
+			"301",
+			"300",
+			"pbx.shadikur.com",
+			"register.html",
+			"Sign Out"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"00",
+			"",
+			"U4TZUsBov.",
+			"100",
+			"lg.count7.co.uk",
+			"fv.count7.co.uk",
+			"103",
+			"304",
+			"303",
+			"302",
+			"301",
+			"pbx.count7.co.uk"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "license.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								600,
+								600
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 102.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "codeigniter.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
